@@ -1,0 +1,8 @@
+{
+    "host":"localhost",
+    "user":"root",
+    "password":"",
+    "database":"antdesign",
+    "timezone":"utc",
+    "dateStrings":true
+}
